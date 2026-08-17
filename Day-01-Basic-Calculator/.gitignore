@@ -1,0 +1,20 @@
+
+For this simple project, use:
+
+```gitignore
+# Compiled Java files
+*.class
+
+# Java build folders
+out/
+bin/
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
